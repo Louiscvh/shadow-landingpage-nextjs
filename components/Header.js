@@ -36,6 +36,9 @@ const HeaderStyle = styled.header`
     ul {
         display: flex;
         gap: 40px;
+        a {
+            text-decoration: none;
+        }
     }
 
     .header__btns {
